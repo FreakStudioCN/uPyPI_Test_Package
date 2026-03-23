@@ -1,18 +1,18 @@
 {
 
-"name": "test",
+"name": "uPyPI_Test_Package",
 
-"version": "2026.3.23",
+"version": "1.0.0",
 
 "urls": [
-["test.py", "https://upypi.net/pkgs/test/2026.3.23/test.py"]
+["test.py", "code/test.py"]
 ],
 
 "deps":[],
 
 "description":"测试urls目录修改",
 
-"author": "iw0",
+"author": "Freak",
 
 "license": "MIT"
 
