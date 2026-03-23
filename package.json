@@ -1,0 +1,19 @@
+{
+
+"name": "test",
+
+"version": "2026.3.23",
+
+"urls": [
+["test.py", "https://upypi.net/pkgs/test/2026.3.23/test.py"]
+],
+
+"deps":[],
+
+"description":"测试urls目录修改",
+
+"author": "iw0",
+
+"license": "MIT"
+
+}
